@@ -43,7 +43,4 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
+
