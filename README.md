@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">👋Olá !! Me chamo Luigi Lombardo</h1>
+<h1 align="center">👋 Me chamo Luigi Lombardo</h1>
 
 ###
 
